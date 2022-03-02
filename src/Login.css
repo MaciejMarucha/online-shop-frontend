@@ -1,0 +1,9 @@
+.loginForm{
+    margin-top: 200px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 400px;
+    border: 1px solid rgb(191, 191, 191);
+    border-radius: 10px;
+    padding: 70px;
+}
